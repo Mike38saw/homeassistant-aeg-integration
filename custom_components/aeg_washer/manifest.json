@@ -1,0 +1,9 @@
+{
+  "domain": "aeg_washer",
+  "name": "AEG Washer",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Mike38saw/homeassistant-aeg-integration",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@Mike38saw"]
+}
